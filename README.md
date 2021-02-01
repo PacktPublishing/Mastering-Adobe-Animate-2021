@@ -7,7 +7,7 @@ This is the code repository for [Mastering Adobe Animate 2021](https://www.packt
 **Explore pro-level techniques and best practices to design vivid animations and interactive content**
 
 ## What is this book about?
-Adobe Animate is platform-agnostic asset creation, motion design, animation, and interactivity software. Complete with step-by-step explanations of essential concepts, practical examples, and hands-on walkthroughs, this book shows you how to use Adobe Animate to create immersive experiences by breaking through creative limitations across every medium
+Adobe Animate is platform-agnostic asset creation, motion design, animation, and interactivity software. Complete with step-by-step explanations of essential concepts, practical examples, and hands-on walkthroughs, this book shows you how to use Adobe Animate to create immersive experiences by breaking through creative limitations across every medium.
 
 This book covers the following exciting features: 
 * Gain a solid understanding of Adobe Animate foundations and new features
@@ -65,7 +65,9 @@ Click on the following link to see the Code in Action:
 ## Get to Know the Author
 **Joseph Labrecque**
 is a creative developer, designer, and educator with nearly two decades of experience creating expressive web, desktop, and mobile solutions. He joined the University of Colorado Boulder College of Media, Communication and Information as Instructor of Technology for the Department of Advertising, Public Relations and Media Design in Autumn 2019. His teaching focuses on creative software, digital workflows, user interaction, and design principles. Before joining the faculty at CU Boulder, he was associated with the University of Denver as adjunct faculty and as a senior interactive software engineer, user interface developer, and digital media designer.
+
 Joseph has authored a number of books and video course publications on design and development technologies, tools, and concepts through publishers which include Packt, LinkedIn Learning (Lynda.com), Peachpit Press, and Apress. He has spoken at large design and technology conferences such as Adobe MAX and for a variety of smaller creative communities. He is also the founder of Fractured Vision Media, LLC; a digital media production studio and distribution vehicle for a variety of creative works.
+
 Joseph is an Adobe Education Leader, Adobe Community Professional, and member of Adobe Partners by Design. He holds a bachelor’s degree in communication from Worcester State University and a master’s degree in digital media studies from the University of Denver.
 
 
