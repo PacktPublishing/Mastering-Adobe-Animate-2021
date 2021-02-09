@@ -4,7 +4,7 @@
 
 This is the code repository for [Mastering Adobe Animate 2021](https://www.packtpub.com/product/mastering-adobe-animate-2021/9781801074162?utm_source=github&utm_medium=repository&utm_campaign=9781801074162), published by Packt.
 
-**Explore pro-level techniques and best practices to design vivid animations and interactive content**
+**Explore professional techniques and best practices to design vivid animations and interactive content**
 
 ## What is this book about?
 Adobe Animate is platform-agnostic asset creation, motion design, animation, and interactivity software. Complete with step-by-step explanations of essential concepts, practical examples, and hands-on walkthroughs, this book shows you how to use Adobe Animate to create immersive experiences by breaking through creative limitations across every medium.
